@@ -2,9 +2,10 @@
 
 * [目录](README.md)
 
-## 简述
+## 基础概念 <a id="jichugainian"></a>
 
-* [什么是NFT](jian-shu/shen-me-shi-nft.md)
+* [FT与NFT](jichugainian/ft-nft.md)
+* [DT与NDT](jichugainian/dt-ndt.md)
 
 ## 如何参与
 
