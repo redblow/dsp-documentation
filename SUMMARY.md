@@ -5,7 +5,7 @@
 ## 基础概念 <a id="jichugainian"></a>
 
 * [FT与NFT](jichugainian/ft-nft.md)
-* [DT与NDT](jichugainian/dt-ndt.md)
+* [DT与INDT](jichugainian/dt-ndt.md)
 
 ## 如何参与
 
