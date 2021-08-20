@@ -10,3 +10,7 @@
 
 * [场景1](yong-tu/chang-jing-1.md)
 
+## 如何参与
+
+* [参与的方式](ru-he-can-yu/can-yu-de-fang-shi.md)
+
