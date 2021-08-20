@@ -1,4 +1,8 @@
-# 数字化商品交易所经济白皮书简述
+---
+description: DCE (Digital Commodity Exchange)
+---
+
+# 数字化商品交易所简述
 
 区块链技术带来了全新的思维模式。
 
