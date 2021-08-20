@@ -6,9 +6,9 @@
 
 * [什么是NFT](jian-shu/shen-me-shi-nft.md)
 
-## 用途
+## 使用场景 <a id="shiyongchangjing"></a>
 
-* [场景1](yong-tu/chang-jing-1.md)
+* [场景1](shiyongchangjing/chang-jing-1.md)
 
 ## 如何参与
 
