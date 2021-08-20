@@ -1,6 +1,6 @@
 # Table of contents
 
-* [简述](README.md)
+* [经济技术白皮书简述](README.md)
 
 ## 基础概念 <a id="jichugainian"></a>
 
