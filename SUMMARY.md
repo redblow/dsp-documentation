@@ -15,7 +15,11 @@
 
 ## 使用场景 <a id="shiyongchangjing"></a>
 
-* [场景1](shiyongchangjing/chang-jing-1.md)
+* [艺术品](shiyongchangjing/chang-jing-1.md)
+* [酒](shiyongchangjing/jiu.md)
+* [茶](shiyongchangjing/cha.md)
+* [二次元](shiyongchangjing/er-ci-yuan.md)
+* [音乐](shiyongchangjing/yin-le.md)
 
 ## 合规化 <a id="he-gui-hua-1"></a>
 
