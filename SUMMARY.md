@@ -1,6 +1,6 @@
 # Table of contents
 
-* [目录](README.md)
+* [简述](README.md)
 
 ## 基础概念 <a id="jichugainian"></a>
 
