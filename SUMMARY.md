@@ -14,11 +14,12 @@
 
 * [参与的方式](ru-he-can-yu/can-yu-de-fang-shi.md)
 
----
-
-* [合规化](he-gui-hua.md)
-
 ## 合规化 <a id="he-gui-hua-1"></a>
 
+* [合规化](he-gui-hua-1/he-gui-hua.md)
 * [税收](he-gui-hua-1/shui-shou.md)
+
+## 盈利方式
+
+* [交易手续费](ying-li-fang-shi/jiao-yi-shou-xu-fei.md)
 
