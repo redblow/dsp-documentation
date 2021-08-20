@@ -14,3 +14,7 @@
 
 * [参与的方式](ru-he-can-yu/can-yu-de-fang-shi.md)
 
+---
+
+* [合规化](he-gui-hua.md)
+
