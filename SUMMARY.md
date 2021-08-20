@@ -1,6 +1,6 @@
 # Table of contents
 
-* [经济白皮书简述](README.md)
+* [数字化商品交易所经济白皮书简述](README.md)
 
 ## 基础概念 <a id="jichugainian"></a>
 
@@ -12,6 +12,8 @@
 
 * [产品购买者](ru-he-can-yu/chan-pin-gou-mai-zhe.md)
 * [产品供应者](ru-he-can-yu/chanpingongyingzhe.md)
+* [投资者](ru-he-can-yu/tou-zi-zhe.md)
+* [交易流程](ru-he-can-yu/jiao-yi-liu-cheng.md)
 
 ## 使用场景 <a id="shiyongchangjing"></a>
 
