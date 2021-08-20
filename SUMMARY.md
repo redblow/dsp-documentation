@@ -4,8 +4,9 @@
 
 ## 基础概念 <a id="jichugainian"></a>
 
-* [DT与INDT](jichugainian/dt-ndt.md)
-* [FT与NFT](jichugainian/ft-nft.md)
+* [可分割代币与不可分割代币](jichugainian/dt-ndt.md)
+* [同质化代币与非同质化代币](jichugainian/ft-nft.md)
+* [不同类型的代币的应用场景](jichugainian/bu-tong-lei-xing-de-dai-bi-de-ying-yong-chang-jing.md)
 
 ## 如何参与
 
