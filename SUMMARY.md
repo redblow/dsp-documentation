@@ -27,3 +27,8 @@
 * [交易手续费](ying-li-fang-shi/jiao-yi-shou-xu-fei.md)
 * [股权增值](ying-li-fang-shi/gu-quan-zeng-zhi.md)
 
+## 隐私保护
+
+* [数据安全](yin-si-bao-hu/shu-ju-an-quan.md)
+* [交易记录匿名化](yin-si-bao-hu/jiao-yi-ji-lu-ni-ming-hua.md)
+
