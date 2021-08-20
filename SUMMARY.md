@@ -19,7 +19,7 @@
 
 ## 合规化 <a id="he-gui-hua-1"></a>
 
-* [合规化](he-gui-hua-1/he-gui-hua.md)
+* [交易货币合规](he-gui-hua-1/jiaoyihuobihegui.md)
 * [税收](he-gui-hua-1/shui-shou.md)
 
 ## 盈利方式
